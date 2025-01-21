@@ -29,11 +29,128 @@ public class RobotInstructions  {
 		 * You will add instructions at the end of the code to cause the support.robot to move
 		 * as you desire.
 		 */
-		robot.forward(60);
+		robot.forward(180);
 		robot.turnLeft(90);
-		robot.forward(23);
+		robot.forward(15);
 		robot.turnRight(90);
-		robot.forward(80);
+		robot.forward(30);
+		robot.turnRight(90);
+		robot.forward(30);
+		robot.turnRight(90);
+		robot.forward(30);
+		robot.turnRight(90);
+		robot.forward(15);
+		robot.turnRight(90);
+		robot.forward(15);
+		robot.forward(50); //Start of moving into petal 1
+	    robot.turnLeft(60);
+	    robot.forward(50);
+	    robot.turnLeft(120);
+	    robot.forward(50);
+	    robot.turnLeft(60);
+	    robot.forward(50);
+	    robot.turnLeft(120);
+	    robot.turnLeft(30);
+	    robot.forward(50); //Start of moving into petal 2
+	    robot.turnLeft(60);
+	    robot.forward(50);
+	    robot.turnLeft(120);
+	    robot.forward(50);
+	    robot.turnLeft(60);
+	    robot.forward(50);
+	    robot.turnLeft(120);
+	    robot.turnLeft(30);
+	    robot.forward(50); //Start of moving into petal 3
+	    robot.turnLeft(60);
+	    robot.forward(50);
+	    robot.turnLeft(120);
+	    robot.forward(50);
+	    robot.turnLeft(60);
+	    robot.forward(50);
+	    robot.turnLeft(120);
+	    robot.turnLeft(30);
+	    robot.forward(50); //Start of moving into petal 4
+	    robot.turnLeft(60);
+	    robot.forward(50);
+	    robot.turnLeft(120);
+	    robot.forward(50);
+	    robot.turnLeft(60);
+	    robot.forward(50);
+	    robot.turnLeft(120);
+	    robot.turnLeft(30);
+	    robot.forward(50); //Start of moving into petal 5
+	    robot.turnLeft(60);
+	    robot.forward(50);
+	    robot.turnLeft(120);
+	    robot.forward(50);
+	    robot.turnLeft(60);
+	    robot.forward(50);
+	    robot.turnLeft(120);
+	    robot.turnLeft(30);
+	    robot.forward(50); //Start of moving into petal 6
+	    robot.turnLeft(60);
+	    robot.forward(50);
+	    robot.turnLeft(120);
+	    robot.forward(50);
+	    robot.turnLeft(60);
+	    robot.forward(50);
+	    robot.turnLeft(120);
+	    robot.turnLeft(30);
+	    robot.forward(50); //Start of moving into petal 7
+	    robot.turnLeft(60);
+	    robot.forward(50);
+	    robot.turnLeft(120);
+	    robot.forward(50);
+	    robot.turnLeft(60);
+	    robot.forward(50);
+	    robot.turnLeft(120);
+	    robot.turnLeft(30);
+	    robot.forward(50); //Start of moving into petal 8
+	    robot.turnLeft(60);
+	    robot.forward(50);
+	    robot.turnLeft(120);
+	    robot.forward(50);
+	    robot.turnLeft(60);
+	    robot.forward(50);
+	    robot.turnLeft(120);
+	    robot.turnLeft(30);
+	    robot.forward(50); //Start of moving into petal 9
+	    robot.turnLeft(60);
+	    robot.forward(50);
+	    robot.turnLeft(120);
+	    robot.forward(50);
+	    robot.turnLeft(60);
+	    robot.forward(50);
+	    robot.turnLeft(120);
+	    robot.turnLeft(30);
+	    robot.forward(50); //Start of moving into petal 10
+	    robot.turnLeft(60);
+	    robot.forward(50);
+	    robot.turnLeft(120);
+	    robot.forward(50);
+	    robot.turnLeft(60);
+	    robot.forward(50);
+	    robot.turnLeft(120);
+	    robot.turnLeft(30);
+	    robot.forward(50); //Start of moving into petal 11
+	    robot.turnLeft(60);
+	    robot.forward(50);
+	    robot.turnLeft(120);
+	    robot.forward(50);
+	    robot.turnLeft(60);
+	    robot.forward(50);
+	    robot.turnLeft(120);
+	    robot.turnLeft(30);
+	    robot.forward(50); //Start of moving into petal 12
+	    robot.turnLeft(60);
+	    robot.forward(50);
+	    robot.turnLeft(120);
+	    robot.forward(50);
+	    robot.turnLeft(60);
+	    robot.forward(50);
+	    robot.turnLeft(150);
+	    robot.turnLeft(180);
+	    
 	}
 
 }
